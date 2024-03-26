@@ -41,3 +41,8 @@ body {
 .content {
   background: #9b6647;
 }
+
+button {
+  background: none;
+  border: none;
+}
