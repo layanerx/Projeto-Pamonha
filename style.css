@@ -1,0 +1,43 @@
+.header {
+  background: #feece0;
+}
+
+section,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box,
+.items {
+  width: 880px;
+  margin: auto;
+}
+
+.boxitem {
+  display: inline-block;
+  padding: 22px;
+}
+
+.boximg {
+  width: 280px;
+}
+
+.boxitem p,
+.boxitem h1 {
+  padding: 0px;
+  margin: 4px;
+}
+
+.imgbtn {
+  width: 20px;
+}
+
+.btn {
+  height: 30px;
+  vertical-align: middle;
+}
+
+.content {
+  background: #9b6647;
+}
